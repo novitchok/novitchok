@@ -44,6 +44,5 @@
     <a href="#"><img alt="Gitlab" src="https://custom-icon-badges.demolab.com/badge/-Gitlab-wheat?logo=gitlab-333"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-mediumblue?logo=telegrammm"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
