@@ -37,7 +37,7 @@
     <a href="#"><img alt="Ubuntu" src="https://custom-icon-badges.demolab.com/badge/-Ubuntu-coral?logo=ubuntu-4-20.4"></a>
     <a href="#"><img alt="JWT" src="https://custom-icon-badges.demolab.com/badge/-JWT-darkslategray?logo=jwt-3"></a>
     <a href="#"><img alt="OpenAPI" src="https://custom-icon-badges.demolab.com/badge/-OpenAPI-orangered?logo=openapi-1"></a>
-    <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/-Docker-snow?logo=docker-svgrepo-comss"></a>
+    <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/-Docker-dodgerblue?logo=icons8-docker"></a>
     <a href="#"><img alt="WebSocket" src="https://custom-icon-badges.demolab.com/badge/-WebSocket-dimgrey?logo=websocket&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Gitlab" src="https://custom-icon-badges.demolab.com/badge/-Gitlab-wheat?logo=gitlab-333"></a>
