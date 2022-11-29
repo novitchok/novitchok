@@ -1,6 +1,5 @@
-<h1>Welcome, my name is Novitchok :wave:</h1>
-<h2>I'm a backend software engineer :pinched_fingers:</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<h1>Eric Haroyan</h1>
+<h2>Software Engineer :pinched_fingers:</h2>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
