@@ -3,7 +3,7 @@
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-212042?logo=java-icon-01"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-2A2A2A?logo=java-icon-01"></a>
     <a href="#"><img alt="Go" src="https://custom-icon-badges.demolab.com/badge/-Golang-darkslategrey?logo=go-899"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
