@@ -4,11 +4,11 @@
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-004A43?logo=java-icon-01"></a>
-    <a href="#"><img alt="Go" src="https://custom-icon-badges.demolab.com/badge/-Golang-darkslategrey?logo=go-899"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-JavaScript-004A43?logo=javascript-icon-02"></a>
+    <a href="#"><img alt="Golang" src="https://custom-icon-badges.demolab.com/badge/-Golang-004A43?logo=golang-icon-03"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/-SQL-004A43?logo=sql-icon-04"></a>
+    <a href="#"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-004A43?logo=html-icon-05"></a>
+    <a href="#"><img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/-CSS-004A43?logo=css-icon-06"></a>
 </p>
 
 <h3>🧰 Frameworks, Platforms and Libraries</h3>
