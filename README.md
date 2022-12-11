@@ -1,7 +1,6 @@
-<h1>Eric Haroyan</h1>
-<h2>Software Engineer :pinched_fingers:</h2>
+<h2>Java Software Engineer</h2>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h4>👨‍💻 Programming and Markup Languages</h4>
 <p>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-004A43?logo=java-icon-01"></a>
     <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-JavaScript-004A43?logo=javascript-icon-02"></a>
@@ -11,7 +10,7 @@
     <a href="#"><img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/-CSS-004A43?logo=css-icon-06"></a>
 </p>
 
-<h3>🧰 Frameworks, Platforms and Libraries</h3>
+<h4>🧰 Frameworks, Platforms and Libraries</h4>
 <p>
     <a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/-Spring-004A43?logo=spring-icon-07"></a>
     <a href="#"><img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/-NodeJS-004A43?logo=nodejs-icon-08"></a>
@@ -23,7 +22,7 @@
     <a href="#"><img alt="WebSocket" src="https://custom-icon-badges.demolab.com/badge/-WebSocket-004A43?logo=websocket-icon-14&logoColor=white"></a>
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+<h4>🗄️ Databases and Cloud Hosting</h4>
 <p>
     <a href="#"><img alt="MongoDB" src ="https://custom-icon-badges.demolab.com/badge/-MongoDB-004A43?logo=mongodb-icon-15"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://custom-icon-badges.demolab.com/badge/-Postgres-004A43?logo=postgres-icon-16"><a>
@@ -32,7 +31,7 @@
     <a href="#"><img alt="Oracle" src ="https://custom-icon-badges.demolab.com/badge/-Oracle-004A43?logo=oracle-icon-19"></a>
 </p>
 
-<h3>💻 Software and Tools</h3>
+<h4>💻 Software and Tools</h4>
 <p>
     <a href="#"><img alt="Intellij IDEA" src="https://custom-icon-badges.demolab.com/badge/-Intellij-004A43?logo=intellij-icon-20"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-VS%20Code-004A43?logo=vscode-icon-21"></a>
@@ -41,4 +40,9 @@
     <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/-Git-004A43?logo=git-icon-24"></a>
     <a href="#"><img alt="Gitlab" src="https://custom-icon-badges.demolab.com/badge/-Gitlab-004A43?logo=gitlab-icon-25"></a>
     <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/-Postman-004A43?logo=postman-icon-26"></a>
+</p>
+
+<h4>Roadmap</h4>
+<p>
+    <img src="./assets/roadmap.png">
 </p>
