@@ -44,5 +44,5 @@
 
 <details> 
     <summary><h4>🌎 Roadmap</h4></summary>
-    <embed src="./assets/roadmap-pdf.pdf" type="application/pdf" width="50%" height="50%">
+    <embed src="./assets/roadmap-pdf.pdf" type="application/pdf">
 </details>
