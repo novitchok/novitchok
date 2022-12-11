@@ -42,7 +42,9 @@
     <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/-Postman-004A43?logo=postman-icon-26"></a>
 </p>
 
-<h2>&#x1F30E;Roadmap</h2>
+<details> 
+<h4>&#x1F30E;Roadmap</h4>
 <summary>
-    <iframe src=width="50%" height="50%"></iframe>
+    <iframe src="./assets/roadmap.pdf" width="50%" height="50%"></iframe>
 </summary>
+</details>
