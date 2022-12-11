@@ -43,8 +43,6 @@
 </p>
 
 <details> 
-<h4>&#x1F30E;Roadmap</h4>
-<summary>
+    <summary><h4>🌎 Roadmap</h4></summary>
     <iframe src="./assets/roadmap.pdf" width="50%" height="50%"></iframe>
-</summary>
 </details>
