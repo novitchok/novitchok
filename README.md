@@ -47,4 +47,5 @@
     <h2>&#x1F30E;Roadmap</h2>
   </summary>
         <img src="./assets/roadmap.png" width="60%" height="60%">
+</details>
 <details open> 
